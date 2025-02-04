@@ -1,16 +1,11 @@
-# propertia
+# Propertia - Aplikasi Manajemen Kontrakan Berbasis Mobile
 
-A new Flutter project.
+**Propertia** adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pemilik properti dalam mengelola kontrakan. Aplikasi ini memungkinkan pemilik untuk mengelola data kontrakan, menyimpan informasi penyewa, pembayaran, dan berbagai fitur lainnya yang memudahkan proses manajemen kontrakan.
 
-## Getting Started
+## Fitur Utama
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Manajemen Properti**: Tambahkan, edit, dan hapus properti yang tersedia untuk disewakan.
+- **Manajemen Penyewa**: Catat data penyewa, termasuk informasi kontak dan durasi sewa.
+- **Pembayaran Sewa**: Pantau pembayaran sewa secara real-time dan berikan notifikasi kepada penyewa.
+- **Laporan Keuangan**: Buat laporan keuangan berdasarkan pembayaran yang diterima dari penyewa.
+- **Pengingat**: Notifikasi otomatis untuk pembayaran sewa dan pembaruan kontrak.
